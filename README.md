@@ -3,8 +3,8 @@
 - 💻 Estou aprendendo o framework React.js e o pré-processador Sass!
 
 <div>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=tat4Souza&show_icons=true&theme=dark&icon_color=8f58a3&locale=pt-br" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tat4Souza&layout=compact&theme=dark&locale=pt-br" />
+  <img height="180rem" width="49%" src="https://github-readme-stats.vercel.app/api?username=tat4Souza&show_icons=true&theme=dark&icon_color=8f58a3&locale=pt-br" />
+  <img height="180rem" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tat4Souza&layout=compact&theme=dark&locale=pt-br" />
 </div>
 
 
