@@ -31,3 +31,5 @@ Estudante de ADS com aspiração para desenvolvimento FrontEnd. Atualmente, venh
   <a href="https://www.linkedin.com/in/tais-f-souza/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:tais.fernandes.ssouza@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/tat4Souza/tat4Souza/blobl/output/github-contribution-grid-snake.svg)
