@@ -2,7 +2,7 @@
 
 Estudante de ADS com aspiração para desenvolvimento FrontEnd. Atualmente, venho estudando frameworks diversas e aprimorando minhas habilidades com UI/UX design.
 
-- ⚙️ Uso com frequência: `.html`, `.js `, `.py`, `.css`, `.scss`
+- ⚙️ Uso com frequência: `.tsx `, `.ts `, `.py`, `.css`, `.scss`
 - 📚 Estudo em projetos práticos o React.js, GSAP, Next.js
 
 <br>
